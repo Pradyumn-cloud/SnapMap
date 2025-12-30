@@ -8,3 +8,9 @@ Fonts: Outfit
 Hexcode: Red: #DB001A
          Grey:#D9D9D9
 Figma Link: https://www.figma.com/design/8TcGAhMmPkjZx1E8SYwaiS/SnapMap?node-id=0-1&p=f&t=NRyjYDAnXlqiwxuv-0
+Set: 02
+
+Fonts: Outfit
+Hexcode: Red: #DB001A
+         Grey:#D9D9D9
+Figma Link: https://www.figma.com/design/2DPCkTjvLrVTcZioVZKGX6/SnapMap-Set-02?node-id=1-68&t=trnUtY3OSLwuamGt-1
